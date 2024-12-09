@@ -13,6 +13,6 @@ mc451742/mc451742 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- (Hons) B.Eng. in Computer Science and Electronics at University of Bristol @yumu987
-- Currently, M.Sc. student in Computer Science at University of Macau @mc451742
+- (Hons) B.Eng. in Computer Science and Electronics at University of Bristol [GitHub](https://github.com/yumu987)
+- Currently, M.Sc. student in Computer Science at University of Macau [GitHub](https://github.com/mc451742)
   
